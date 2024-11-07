@@ -1,0 +1,5 @@
+to create a file on shell you can use : - mkdir (file name )
+                                        - mkdir (file name ) (file name ) for many files created on the same command 
+                                        - mkdir -p file/file/file/file to create files within the file
+                                        - touch (file name )
+
